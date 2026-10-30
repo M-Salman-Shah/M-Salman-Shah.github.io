@@ -28,7 +28,8 @@ I'm a web developer who loves turning ideas into clean, working applications. I 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Building+with+Laravel+%F0%9F%9A%80;Clean+code.+Real+projects.+Always+learning.)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=M-Salman-Shah&limit=5&theme=dark&combine_all_yearly_contributions=true)### 📌 Featured Projects
+![](https://github-contributor-stats.vercel.app/api?username=M-Salman-Shah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📌 Featured Projects
 [![hb-graphics](https://github-readme-stats.vercel.app/api/pin/?username=M-Salman-Shah&repo=hb-graphics&theme=tokyonight&hide_border=true)](https://github.com/M-Salman-Shah/hb-graphics)
 [![haystack-jobs-scraper](https://github-readme-stats.vercel.app/api/pin/?username=M-Salman-Shah&repo=haystack-jobs-scraper&theme=tokyonight&hide_border=true)](https://github.com/M-Salman-Shah/haystack-jobs-scraper)
 [![hisaab-pro](https://github-readme-stats.vercel.app/api/pin/?username=M-Salman-Shah&repo=hisaab-pro&theme=tokyonight&hide_border=true)](https://github.com/M-Salman-Shah/hisaab-pro)
